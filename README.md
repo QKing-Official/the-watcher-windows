@@ -17,15 +17,6 @@ Supported Methods:
 - MongoDB
 ## Running the monitor
 
-First copy `config.yaml.example` to `config.yaml` and modify it to your liking.
-
-### With docker:
-```bash
-  docker compose up -d # or docker-compose up -d
-```
-
-### Manually:
-
 Install packages
 
 ```bash
