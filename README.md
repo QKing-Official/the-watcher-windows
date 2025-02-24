@@ -1,5 +1,6 @@
 # The Watcher
-> An uptime monitor built in SolidJS. Batteries Included
+> An uptime monitor built in SolidJS made by Cyteon. This fork is for Windows based systems.
+> Full credits to Cyteon, I only changed dev.js and prod.js
 
 Default dashboard credentials:
 - Username: `admin`
