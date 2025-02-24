@@ -9,6 +9,9 @@ Default dashboard credentials:
 You can access the dashboard at `/dash`. \
 Change the default credentials immediately
 
+The Watcher runs on port 3000.
+http://localhost:3000
+
 ## Features
 Supported Methods:
 - HTTP(s)
@@ -37,7 +40,3 @@ Run the Monitor (production)
   node prod.js
 ```
 
-To specify a port for it to run on do
-```bash
-  PORT=1234 node dev.js # or prod.js
-```
